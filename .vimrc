@@ -96,8 +96,8 @@ nmap <Leader>w <Plug>(easymotion-overwin-w)
 
 
 " by DS
-inoremap <C-v> <ESC>"+pa
-vnoremap <C-c> "+y
-vnoremap <C-d> "+d
-inoremap jj <Esc>
+" inoremap <C-v> <ESC>"+pa
+" vnoremap <C-c> "+y
+" vnoremap <C-d> "+d
+" inoremap jj <Esc>
 
