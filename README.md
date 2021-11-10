@@ -18,3 +18,5 @@ Installation
 To install plugins run in vim: 
 
     PlugInstall
+    
+https://github.com/gpakosz/.vim
