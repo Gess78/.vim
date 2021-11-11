@@ -15,6 +15,12 @@ Installation
     $ git clone https://github.com/Gess78/.vim.git
     $ ln -s .vim/.vimrc
     
+    # or
+    cd&&\
+    rm -rf .vim&&\
+    git clone https://github.com/Gess78/.vim.git &&\
+    ln -s .vim/.vimrc
+    
 To install plugins run in vim: 
 
     PlugInstall
